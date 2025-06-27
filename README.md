@@ -2,6 +2,8 @@
 
 A simple and fast QR Code Generator built with **Vite + React**. Enter any text or URL, and instantly generate a downloadable QR code.
 
+🔗 **Live Demo**: [Click here to view](https://risingsunqr.netlify.app)
+
 ## 📸 Screenshots
 
 ![App Screenshot 1](./screenshots/image1.png)
