@@ -40,7 +40,7 @@ function QrGen() {
 
   return (
     <div className="QrGen-container">
-      <h1>QR Code Generator</h1>
+      <h1>RisingSun QR Code Generator</h1>
       {loading && <div className="spinner"></div>}
 
       {!loading && img && (
