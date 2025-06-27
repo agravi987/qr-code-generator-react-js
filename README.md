@@ -8,7 +8,7 @@ A simple and fast QR Code Generator built with **Vite + React**. Enter any text 
 ![App Screenshot 2](./screenshots/image2.png)
 
 
-> 🔔 Make sure you place your screenshots in a `screenshots/` folder in your root directory or update the path above accordingly.
+
 
 ## 🛠️ Features
 
@@ -16,7 +16,7 @@ A simple and fast QR Code Generator built with **Vite + React**. Enter any text 
 - ✍️ Supports custom text and URLs
 - 📥 Download QR Code as an image
 - ⚡️ Built with [Vite](https://vitejs.dev/) for super-fast development
-- 💅 Styled with Tailwind CSS (optional)
+
 
 ## 🚀 Getting Started
 
